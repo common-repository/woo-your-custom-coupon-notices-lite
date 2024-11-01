@@ -1,0 +1,48 @@
+#woocommerce-coupon-data ul.wc-tabs li.coupon-notices a::before {
+
+    content: "\f473" !important;
+    font-family: Dashicons;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1;
+    margin-right: 0.618em;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#custom_coupon_notices .options_group {
+padding:0 0.75em;
+}
+
+.counter {
+  padding:0 0.75em;  
+}
+
+.successnotice {
+    width:100%;
+    border:solid 1px #8ca958;
+    margin-bottom:5px;
+}
+
+.successnotice:focus {
+    box-shadow: 0px 0px 5px #e0f909;
+    border:solid 1px #8ca958;
+}
+
+.errornotice {
+    width:100%;
+    border:solid 1px #f85669;
+    margin-bottom:5px;
+}
+
+.errornotice:focus {
+    box-shadow: 0px 0px 5px #e0f909;
+    border:solid 1px #f85669;
+}
+
+.noticeheading {
+    font-size:80%;
+}
+.spacer {
+    height:10px;
+}

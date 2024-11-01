@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Your Custom Coupon Notices Lite\n"
+"POT-Creation-Date: 2017-01-09 10:35+0100\n"
+"PO-Revision-Date: 2017-01-09 10:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom_notices.php:92
+msgid ""
+"You installed \"Woocommerce Your Custom Coupon Notices Lite\". You can "
+"customize notices for up to three coupons. If you want more, visit <a href="
+"\"http://www.w34all.de/\" target=\"_blank\">w34all.de</a> to get the full "
+"version."
+msgstr ""
+
+#: custom_notices.php:100
+msgid ""
+"You customized notices for two coupons. Only one coupon remaining. If you "
+"want more, visit <a href=\"http://www.w34all.de/\" target=\"_blank\">w34all."
+"de</a> to get the full version."
+msgstr ""
+
+#: custom_notices.php:108
+msgid ""
+"You customized notices for all three coupons possible with this Lite "
+"version. If you want more, visit <a href=\"http://www.w34all.de/\" target="
+"\"_blank\">w34all.de</a> to get the full version."
+msgstr ""
+
+#: custom_notices.php:116 custom_notices.php:117
+msgid "Coupon Notices"
+msgstr ""
+
+#: custom_notices.php:126
+msgid "Access denied."
+msgstr ""
+
+#: custom_notices.php:144
+msgid "Woocommerce Your Custom Coupon Notices"
+msgstr ""
+
+#: custom_notices.php:147
+msgid ""
+"Here you can change Standard-Notices as 'Coupon \"xxxxx\" does not exist!'."
+msgstr ""
+
+#: custom_notices.php:154 custom_notices.php:159
+msgid "Use the default notice"
+msgstr ""
+
+#: custom_notices.php:155
+#, php-format
+msgid ""
+"%s is a wildcard for the name of the coupon. You might enter multiple "
+"notices <strong>separated by \"|\"</strong>, plugin will shuffle them and "
+"display one. So notices will change from time to time."
+msgstr ""
+
+#: custom_notices.php:158
+msgid "Please enter a coupon code."
+msgstr ""
+
+#: custom_notices.php:160
+msgid ""
+"Again, you might enter multiple notices <strong>separated by \"|\"</strong>."
+msgstr ""
+
+#: custom_notices.php:165
+msgid "Save"
+msgstr ""
+
+#: custom_notices.php:173
+msgid "Notices"
+msgstr ""
+
+#: custom_notices.php:193
+msgid "Custom Notices"
+msgstr ""
+
+#: custom_notices.php:195 custom_notices.php:235
+msgid "Use&nbsp;default&nbsp;notice"
+msgstr ""
+
+#: custom_notices.php:200 custom_notices.php:240
+msgid "Default:"
+msgstr ""
+
+#: custom_notices.php:233
+msgid "Custom Error Notices"
+msgstr ""
+
+#: custom_notices.php:261
+msgid "Possible Tokens"
+msgstr ""
